@@ -55,8 +55,8 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
-  EncoderLimits.srv
   EncoderTrigger.srv
+  MarkerPoseTrigger.srv
 )
 
 ## Generate actions in the 'action' folder
