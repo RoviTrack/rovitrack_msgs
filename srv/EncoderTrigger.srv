@@ -1,0 +1,5 @@
+string status
+---
+bool success
+string message
+int32 encoder_value
